@@ -42,6 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Library\AbstractRegularPolygon.cs" />
+    <Compile Include="Library\ASquare.cs" />
+    <Compile Include="Library\ATriangle.cs" />
+    <Compile Include="Library\ConcreteRegularPolygon.cs" />
+    <Compile Include="Library\CSquare.cs" />
+    <Compile Include="Library\CTriangle.cs" />
+    <Compile Include="Library\IRegularPolygon.cs" />
+    <Compile Include="Library\Square.cs" />
+    <Compile Include="Library\Triangle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
